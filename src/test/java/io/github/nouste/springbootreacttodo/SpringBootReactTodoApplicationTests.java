@@ -1,10 +1,10 @@
-package nouste.springbootreacttodo;
+package io.github.nouste.springbootreacttodo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootreacttodoApplicationTests {
+class SpringBootReactTodoApplicationTests {
 
 	@Test
 	void contextLoads() {
